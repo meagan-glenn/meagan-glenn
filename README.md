@@ -3,15 +3,19 @@ a product manager and cofounder shipping prodfolio, building AI products, and wr
 
 i spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. now i'm building my own products + taking fractional pm work.
 
-🛠️ what i'm working on right now
+🛠️ what i'm tinkering with right now
 ---
 🗂️ prodfolio
 
-a portfolio platform for pms. 125+ users, 5 paying customers.
+a portfolio platform for pms. 
 
 🐾 remember my pet
 
 a memorial space for the pets we've loved and lost.
+
+🎙️ voice multiplier
+
+a social media writer and amplifier. 
 
 📈 what i'm good at
 ---
