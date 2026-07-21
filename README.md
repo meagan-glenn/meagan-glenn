@@ -10,7 +10,7 @@ a portfolio builder for product managers. i co-founded it and managed the compan
 open-sourcing it in july 2026. built with React, TypeScript, and Supabase -
 see a live portfolio at [meaganglenn.me](https://meaganglenn.me).
 
-🐾 also shipped: remember my pet, a memorial space for the pets we've loved and lost.
+🐾 also shipped: [remember my pet](https://remembermypet.ai/), a memorial space for the pets we've loved and lost.
 
 ## 🤝 open to
 
