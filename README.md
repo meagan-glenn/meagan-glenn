@@ -1,40 +1,35 @@
-##  hi, i'm meagan 👋
-a product manager and cofounder shipping prodfolio, building AI products, and writing about what it actually looks like to go from idea to live product.
+## hi, i'm meagan 👋
 
-i spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. now i'm building my own products + taking fractional pm work.
+a product manager who builds. i spent years at early-stage SaaS focusing on PLG, activation/growth strategy, and improving user experiences. i started from a CX background, so user empathy is at the core of every move i make. in 2025, i built my own product and took it from idea to paying customers.
 
-🛠️ what i'm tinkering with right now
----
-🗂️ prodfolio
+## 🛠️ what i've built
 
-a portfolio platform for pms. 
+🗂️ **[prodfolio](https://github.com/product-gals/prodfolio)**
 
-🐾 remember my pet
+a portfolio builder for product managers. i co-founded it and managed the company as a paid SaaS before
+open-sourcing it in july 2026. built with React, TypeScript, and Supabase -
+see a live portfolio at [meaganglenn.me](https://meaganglenn.me).
 
-a memorial space for the pets we've loved and lost.
+🐾 also shipped: remember my pet, a memorial space for the pets we've loved and lost.
 
-🎙️ voice multiplier
+## 🤝 open to
 
-a social media writer and amplifier. 
+**fractional:**
+product management and operations engagements → [justfractional.co](https://justfractional.co/)
 
-📈 what i'm good at
----
-PLG transformations. activation/growth strategy. early-stage saas. hundreds of user interviews. taking raw signals and turning them into product strategy. shipping real code + real products.
-
-🤝 open to
----
-**how i help:**
-fractional pm engagements or AI MVP builds
-
-**my strengths:**
-AI, growth, activation, early-stage saas
+**full-time:**
+product roles in applied AI / deployed PM, growth, lifecycle, and activation/adoption. i'm most curious about the newer, AI-shaped ones.
 
 **spaces i love:**
-travel and fitness/wellness/outdoor companies
+AI, travel, fitness/wellness/outdoor, and biotech companies
 
 **locations:**
-remote, hybrid, or on-site
+remote or hybrid
 
-🔗 let's connect
----
-• [website](https://justfractional.co/) • [portfolio](https://meaganglenn.me) • [email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
+## ✍️ writing
+
+why users sign up and then disappear, and how to fix it. on activation, retention, and product-led growth → [meaganglenn.beehiiv.com](https://meaganglenn.beehiiv.com/)
+
+## 🔗 let's connect
+
+• [portfolio](https://meaganglenn.me) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [email](mailto:meag.glenn@gmail.com) • [newsletter](https://meaganglenn.beehiiv.com/)
