@@ -24,7 +24,7 @@ product roles in applied AI / deployed PM, growth, lifecycle, and activation/ado
 AI, travel, fitness/wellness/outdoor, and biotech companies
 
 **locations:**
-remote or hybrid
+remote or hybrid. i do some of my best work collaborating in person — happy to arrange on-site time with fractional clients, and open to relocating for the right full-time role.
 
 ## ✍️ writing
 
