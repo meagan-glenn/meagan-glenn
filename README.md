@@ -1,6 +1,6 @@
 ## hi, i'm meagan 👋
 
-a product manager who builds. i spent years inside early-stage SaaS companies focusing on PLG, activation/growth strategy, and improving user experiences. i started from a CX background, so user empathy is at the core of every move i make. in 2025, i built my own product and took it from idea to paying customers.
+a product manager who builds. i spent years inside early-stage SaaS companies focusing on PLG, activation/growth strategy, and improving user experiences. i started from a CX background, so user empathy is at the core of every move i make. in 2025, i built my own product and took it from idea to paying customers. along the way, i've been working with clients on a project and retainer basis. 
 
 ## 🛠️ what i've built
 
@@ -10,21 +10,26 @@ a portfolio builder for product managers. i co-founded it and managed the compan
 open-sourcing it in july 2026. built with React, TypeScript, and Supabase -
 see a live portfolio at [meaganglenn.me](https://meaganglenn.me).
 
-🐾 also shipped: [remember my pet](https://remembermypet.ai/), a memorial space for the pets we've loved and lost.
+🐾 also shipped: [remember my pet](https://remembermypet.ai/) 
+
+a memorial space for the pets we've loved and lost.
 
 ## 🤝 open to
 
 **fractional:**
 product management and operations engagements → [justfractional.co](https://justfractional.co/)
 
+**AI builds:**
+internal tooling, MVPs
+
 **full-time:**
-product roles in applied AI / deployed PM, growth, lifecycle, and activation/adoption. i'm most curious about the newer, AI-shaped ones.
+always open to considering a FT role in growth, lifecycle, applied AI / deployed PM, or activation/adoption. 
 
 **spaces i love:**
-AI, travel, fitness/wellness/outdoor, and biotech companies
+AI, travel, fitness/wellness/outdoor, and biotech
 
 **locations:**
-remote or hybrid. i do some of my best work collaborating in person — happy to arrange on-site time with fractional clients, and open to relocating for the right full-time role.
+remote or hybrid. i do some of my best work collaborating in person.
 
 ## ✍️ writing
 
