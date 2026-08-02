@@ -1,6 +1,6 @@
 ## hi, i'm meagan 👋
 
-a product manager who builds. i spent years inside early-stage SaaS companies focusing on PLG, activation/growth strategy, and improving user experiences. i started from a CX background, so user empathy is at the core of every move i make. in 2025, i built my own product and took it from idea to paying customers. along the way, i've been working with clients on a project and retainer basis. 
+a product manager who builds. i've spent a decade inside early-stage SaaS companies focusing on PLG, activation/growth strategy, and improving user experiences. i started from a CX background, so user empathy is at the core of every move i make. in 2025, i built my own product and took it from idea to paying customers. along the way, i've been working with clients on a project and retainer basis. 
 
 ## 🛠️ what i've built
 
