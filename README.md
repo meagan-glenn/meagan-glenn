@@ -23,13 +23,13 @@ product management and operations engagements → [justfractional.co](https://ju
 internal tooling, MVPs
 
 **full-time:**
-always open to considering a FT role in growth, lifecycle, applied AI / deployed PM, or activation/adoption. 
+also considering a FT role in product, growth, lifecycle, applied AI / deployed PM, or activation/adoption starting this Fall. 
 
 **spaces i love:**
-AI, travel, fitness/wellness/outdoor, and biotech
+AI, travel, fitness/wellness/outdoor, Martech, and biotech
 
 **locations:**
-remote or hybrid. i do some of my best work collaborating in person.
+remote or hybrid. i do some of my best work collaborating in person and will consider relocating for the right opportunity and culture. 
 
 ## ✍️ writing
 
