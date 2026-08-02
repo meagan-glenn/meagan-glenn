@@ -26,7 +26,7 @@ internal tooling, MVPs
 also considering a FT role in product, growth, lifecycle, applied AI / deployed PM, or activation/adoption starting this Fall. 
 
 **spaces i love:**
-AI, travel, fitness/wellness/outdoor, Martech, and biotech
+AI, travel, fitness/wellness/outdoor, and Martech.
 
 **locations:**
 remote or hybrid. i do some of my best work collaborating in person and will consider relocating for the right opportunity and culture. 
