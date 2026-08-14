@@ -14,7 +14,11 @@ i use this one every day. it finds prospects, tracks my pipeline, drafts outreac
 
 🗂️ **prodfolio** · a portfolio builder for product managers
 
-my first 0 to 1. i launched it in november 2025 and got to 200+ users and $1,000+ ARR in ten months across 11 releases, all on organic LinkedIn and TikTok. 57% of the people who signed up were job hunting. what surprised me most: activation mattered way more than acquisition. once someone actually finished their first portfolio, they shared it, and the referrals came on their own. it sunsets august 31, 2026, and [meaganglenn.me](https://meaganglenn.me) is a real portfolio it built.
+my first 0 to 1. i launched it in november 2025 and got to 200+ users and $1,000+ ARR in ten months across 11 releases, all organic from LinkedIn and TikTok.
+
+57% of the people who signed up were job hunting, but what surprised me most is that activation mattered way more than acquisition. once someone actually finished their first portfolio, they shared it, and the referrals came on their own.
+
+it sunsets august 31, 2026, and here is my portfolio that i built on it: [meaganglenn.me](https://meaganglenn.me).
 
 🕯️ **[remember my pet](https://remembermypet.ai)** · a memorial space for the pets we've loved and lost
 
