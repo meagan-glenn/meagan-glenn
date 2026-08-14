@@ -1,35 +1,34 @@
 ## hi, i'm meagan 👋
 
-a product manager who builds. i've spent a decade inside early-stage SaaS companies focusing on PLG, activation/growth strategy, and improving user experiences. i started from a CX background, so user empathy is at the core of every move i make. in 2025, i built my own product and took it from idea to paying customers. along the way, i've been working with clients on a project and retainer basis. 
+a product manager who builds. in 2025 i took my own product from idea to paying customers, and i spent the decade before that inside early-stage SaaS on PLG, activation, and growth strategy. i started from a CX background, so user empathy is at the core of every move i make. these days i work with clients on a project and retainer basis, and i build my own tools. everything below is mine, shipped.
 
 ## 🛠️ what i've built
 
-🗂️ **[prodfolio](https://github.com/product-gals/prodfolio)**
+🐾 **[scoop](https://github.com/meagan-glenn/scoop)** · the health record for a house full of animals
 
-a portfolio builder for product managers. i co-founded it and managed the company as a paid SaaS before
-open-sourcing it in july 2026. built with React, TypeScript, and Supabase -
-see a live portfolio at [meaganglenn.me](https://meaganglenn.me).
+a native SwiftUI iOS app, spec'd as [a full PRD](https://github.com/meagan-glenn/scoop/blob/main/docs/PRD.md) first and then built: episode-based tracking across a multi-pet household, camera-first capture with AI photo scoring, and a vet-legible summary on demand. the README is the product thinking, including which three features i built and then deliberately cut.
 
-🐾 also shipped: [remember my pet](https://remembermypet.ai/) 
+🤖 **[operator](https://github.com/meagan-glenn/operator)** · the agent that runs my business development
 
-a memorial space for the pets we've loved and lost.
+the real one, not a demo. prospect discovery, pipeline, outreach drafted in my voice, scheduling. built on the Claude Agent SDK. it drafts, i send.
+
+🗂️ **prodfolio** · a portfolio builder for product managers
+
+my first 0 to 1. i built it, launched november 2025, and took it to 200+ users and $1,000+ ARR in ten months across 11 public releases, on organic LinkedIn and TikTok alone. 57% of users came to it for a job search. the lesson that stuck is the one i now get hired for: activation mattered more than acquisition. getting a new user to *finish* their first portfolio was the real unlock, the thing that turned into sharing and unprompted referrals. it sunsets august 31, 2026, and [meaganglenn.me](https://meaganglenn.me) is a real portfolio it built.
+
+🕯️ **[remember my pet](https://remembermypet.ai)** · a memorial space for the pets we've loved and lost
+
+free, and built after i lost my dog of 13 years. i wrote the whole story here: [her name was skylar](https://meaganglenn.beehiiv.com/p/her-name-was-skylar).
 
 ## 🤝 open to
 
-**fractional:**
-product management and operations engagements → [justfractional.co](https://justfractional.co/)
+**full-time** · product, growth, lifecycle, applied AI / deployed PM, or activation and adoption. available this fall.
 
-**AI builds:**
-internal tooling, MVPs
+**fractional** · product management and operations engagements → [justfractional.co](https://justfractional.co/)
 
-**full-time:**
-also considering a FT role in product, growth, lifecycle, applied AI / deployed PM, or activation/adoption starting this Fall. 
+**AI builds** · internal tooling and MVPs
 
-**spaces i love:**
-AI, travel, fitness/wellness/outdoor, and Martech.
-
-**locations:**
-remote or hybrid. i do some of my best work collaborating in person and will consider relocating for the right opportunity and culture. 
+remote, hybrid, or on-site, based in bellingham, wa, and open to relocating for the right team. spaces i love: AI, martech, travel, and fitness/wellness/outdoor.
 
 ## ✍️ writing
 
