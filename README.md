@@ -1,20 +1,20 @@
 ## hi, i'm meagan 👋
 
-a product manager who builds. in 2025 i took my own product from idea to paying customers, and i spent the decade before that inside early-stage SaaS on PLG, activation, and growth strategy. i started from a CX background, so user empathy is at the core of every move i make. these days i work with clients on a project and retainer basis, and i build my own tools. everything below is mine, shipped.
+a product manager who builds. in 2025 i took my own product from idea to paying customers, and i spent the decade before that inside early-stage SaaS on PLG, activation, and growth strategy. i started from a CX background, so user empathy is at the core of every move i make. these days i work with clients on a project and retainer basis, and i build my own tools. i built everything below.
 
 ## 🛠️ what i've built
 
 🐾 **[scoop](https://github.com/meagan-glenn/scoop)** · the health record for a house full of animals
 
-a native SwiftUI iOS app, spec'd as [a full PRD](https://github.com/meagan-glenn/scoop/blob/main/docs/PRD.md) first and then built: episode-based tracking across a multi-pet household, camera-first capture with AI photo scoring, and a vet-legible summary on demand. the README is the product thinking, including which three features i built and then deliberately cut.
+a native SwiftUI iOS app. i wrote [the full PRD](https://github.com/meagan-glenn/scoop/blob/main/docs/PRD.md) first, then built it: episode-based tracking across a multi-pet household, camera-first capture with AI photo scoring, and a vet-legible summary on demand. the README walks through the calls i made, including the three features i built and then cut.
 
 🤖 **[operator](https://github.com/meagan-glenn/operator)** · the agent that runs my business development
 
-the real one, not a demo. prospect discovery, pipeline, outreach drafted in my voice, scheduling. built on the Claude Agent SDK. it drafts, i send.
+i use this one every day. it finds prospects, tracks my pipeline, drafts outreach in my voice, and books my calls. built on the Claude Agent SDK. it drafts, i send.
 
 🗂️ **prodfolio** · a portfolio builder for product managers
 
-my first 0 to 1. i built it, launched november 2025, and took it to 200+ users and $1,000+ ARR in ten months across 11 public releases, on organic LinkedIn and TikTok alone. 57% of users came to it for a job search. the lesson that stuck is the one i now get hired for: activation mattered more than acquisition. getting a new user to *finish* their first portfolio was the real unlock, the thing that turned into sharing and unprompted referrals. it sunsets august 31, 2026, and [meaganglenn.me](https://meaganglenn.me) is a real portfolio it built.
+my first 0 to 1. i launched it in november 2025 and got to 200+ users and $1,000+ ARR in ten months across 11 releases, all on organic LinkedIn and TikTok. 57% of the people who signed up were job hunting. what surprised me most: activation mattered way more than acquisition. once someone actually finished their first portfolio, they shared it, and the referrals came on their own. it sunsets august 31, 2026, and [meaganglenn.me](https://meaganglenn.me) is a real portfolio it built.
 
 🕯️ **[remember my pet](https://remembermypet.ai)** · a memorial space for the pets we've loved and lost
 
