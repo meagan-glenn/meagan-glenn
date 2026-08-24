@@ -15,7 +15,7 @@ a product manager who builds. in 2025 i took my own product from idea to paying 
 - **full-time** · product, growth, lifecycle, applied AI / deployed PM, or activation and adoption. available this fall.
 - **AI builds** · internal tooling and MVPs
 
-based in bellingham, wa · will relocate. domains: AI, martech, salestech, travel, & fitness/wellness/outdoor.
+domains: AI, martech, salestech, travel, & fitness/wellness/outdoor.
 
 ## 🔗 let's connect
 
