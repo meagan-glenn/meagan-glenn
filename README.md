@@ -11,8 +11,8 @@ a product manager who builds. in 2025 i took my own product from idea to paying 
 
 ## 🤝 open to
 
+- **fractional** · product management - AI & Growth → [justfractional.co](https://justfractional.co/)
 - **full-time** · product, growth, lifecycle, applied AI / deployed PM, or activation and adoption. available this fall.
-- **fractional** · product management and operations engagements → [justfractional.co](https://justfractional.co/)
 - **AI builds** · internal tooling and MVPs
 
 based in bellingham, wa · will relocate. domains: AI, martech, salestech, travel, & fitness/wellness/outdoor.
