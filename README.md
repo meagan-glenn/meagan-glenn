@@ -6,7 +6,7 @@ a product manager who builds. in 2025 i took my own product from idea to paying 
 
 - 🐾 **[scoop](https://github.com/meagan-glenn/scoop)** · native SwiftUI iOS health record for a multi-pet household. [PRD](https://github.com/meagan-glenn/scoop/blob/main/docs/PRD.md) first, then built: episode tracking, AI photo scoring, vet-legible summaries.
 - 🤖 **[operator](https://github.com/meagan-glenn/operator)** · the agent that runs my business development, built on the Claude Agent SDK. it drafts, i send.
-- 🗂️ **prodfolio** · portfolio builder for PMs, my first 0 to 1. 200+ users and $1,000+ ARR in ten months, all organic. what surprised me: activation mattered way more than acquisition. [meaganglenn.me](https://meaganglenn.me) runs on it.
+- 🗂️ **prodfolio** · portfolio builder for PMs, my first 0 to 1. 200+ users and $1,000+ ARR in ten months, all organic. [meaganglenn.me](https://meaganglenn.me) runs on it.
 - 🕯️ **[remember my pet](https://remembermypet.ai)** · a free memorial space for the pets we've loved and lost. the story: [her name was skylar](https://meaganglenn.beehiiv.com/p/her-name-was-skylar).
 
 ## 🤝 open to
