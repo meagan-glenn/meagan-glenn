@@ -15,7 +15,7 @@ a product manager who builds. in 2025 i took my own product from idea to paying 
 - **fractional** · product management and operations engagements → [justfractional.co](https://justfractional.co/)
 - **AI builds** · internal tooling and MVPs
 
-based in bellingham, wa · will relocate. i love: AI, martech, travel, & fitness/wellness/outdoor.
+based in bellingham, wa · will relocate. domains: AI, martech, salestech, travel, & fitness/wellness/outdoor.
 
 ## 🔗 let's connect
 
